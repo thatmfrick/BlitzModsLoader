@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Sight",
+    "mods": [
+      {
+        "name": "Modern Warfare",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/modern-warfare-12/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/modern-warfare-12/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/modern-warfare-12"
+      },
+      {
+        "name": "Green +",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/green-1/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/green-1/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/green-1"
+      },
+      {
+        "name": "Type-O",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/type-o-2/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/type-o-2/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/type-o-2"
+      },
+      {
+        "name": "Green Ready",
+        "author": "Andre_V",
+        "pc": "https://blitz-mods.com/mod/sights/ready-by-andre-v-16/download/pc-wg/file?_token=x=0",
+        "android": "https://blitz-mods.com/mod/sights/ready-by-andre-v-16/download/android-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/ready-by-andre-v-16"
+      },
+      {
+        "name": "White ready",
+        "author": "Andre_V",
+        "android": "https://www.blitz-mods.com/mod/sights/white-ready-34/download/pc-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/white-ready-34/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/white-ready-34"
+      },
+      {
+        "name": "Recolored default",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/recolored-default-sight-by-muzmods-147/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/recolored-default-sight-by-muzmods-147/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/recolored-default-sight-by-muzmods-147"
+      },
+      {
+        "name": "Taipan 2",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/sight-taipan-2-93/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/sight-taipan-2-93/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/sight-taipan-2-93"
+      },
+      {
+        "name": "Turquosie v3",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/turquosie-v3-14/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/turquosie-v3-14/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/turquosie-v3-14"
+      },
+      {
+        "name": "Sight from World of Tanks for WoTBlitz",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/sight-from-world-of-tanks-for-wotblitz-71/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/sight-from-world-of-tanks-for-wotblitz-71/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/sight-from-world-of-tanks-for-wotblitz-71"
+      }
+    ]
+  },
+  {
+    "name": "Reticle Spread",
+    "mods": [
+      {
+        "name": "Blue-Red solid line",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-blue-red-solid-line-340/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-blue-red-solid-line-340/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-blue-red-solid-line-340"
+      },
+      {
+        "name": "Blue-Red dots",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-blue-red-dots-339/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-blue-red-dots-339/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-blue-red-dots-339"
+      },
+      {
+        "name": "Green-Red solid line",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/reticle-spread-green-red-solid-line-335/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/reticle-spread-green-red-solid-line-335/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/reticle-spread-green-red-solid-line-335"
+      },
+      {
+        "name": "Green-Red dots",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sights/reticle-spread-green-red-dots-334/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sights/reticle-spread-green-red-dots-334/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sights/reticle-spread-green-red-dots-334"
+      },
+      {
+        "name": "Yellow-Red solid line",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-yellow-red-solid-line-337/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-yellow-red-solid-line-337/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-yellow-red-solid-line-337"
+      },
+      {
+        "name": "Yellow-Red dots",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-yellow-red-dots-336/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-yellow-red-dots-336/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-yellow-red-dots-336"
+      },
+      {
+        "name": "White-Red dots",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-white-red-dots-332/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-white-red-dots-332/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-white-red-dots-332"
+      },
+      {
+        "name": "White-Red solid line",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-white-red-solid-line-333/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-white-red-solid-line-333/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-white-red-solid-line-333"
+      },
+      {
+        "name": "Black-Green solid line",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/reticle-spread-black-green-solid-line-331/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/reticle-spread-black-green-solid-line-331/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/reticle-spread-black-green-solid-line-331"
+      },
+      {
+        "name": "Black-Green dots",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sights/gun-spread-black-green-dots-330/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sights/gun-spread-black-green-dots-330/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sights/gun-spread-black-green-dots-330"
+      }
+    ]
+  }
+]

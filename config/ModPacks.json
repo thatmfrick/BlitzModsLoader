@@ -1,0 +1,24 @@
+[
+  {
+    "name": "DeltBlitz Modpack",
+    "mods": [
+      {
+        "name": "World of tanks modpack for WotB",
+        "author": "DeltBlitz",
+        "pc": "https://blitz-mods.com/mod/modpacks/steam-wgc-wot-pc-modpack-for-world-of-tanks-blitz-285/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/modpacks/steam-wgc-wot-pc-modpack-for-world-of-tanks-blitz-285"
+      }
+    ]
+  },
+  {
+    "name": "Rick Modpack",
+    "mods": [
+      {
+        "name": "WoT Battle UI Modpack",
+        "author": "Rick",
+        "pc": "https://blitz-mods.com/mod/modpacks/wot-battle-ui-modpack-398/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/modpacks/wot-battle-ui-modpack-398"
+      }
+    ]
+  }
+]

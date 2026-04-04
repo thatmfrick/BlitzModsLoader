@@ -1,0 +1,181 @@
+[
+  {
+    "name": "Light Bulb",
+    "mods": [
+      {
+        "name": "Orange 6thSense (v2)",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/sixth-senses/orange-bulb-v2-41/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/sixth-senses/orange-bulb-v2-41/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/sixth-senses/orange-bulb-v2-41"
+      },
+      {
+        "name": "Sixth sense bulb from WoT PC",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/sixth-senses/bulb-sixth-sense-from-wot-pc-82/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sixth-senses/bulb-sixth-sense-from-wot-pc-82/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sixth-senses/bulb-sixth-sense-from-wot-pc-82"
+      },
+      {
+        "name": "Sixth Sense Totem of undying",
+        "author": "ZxcMashka",
+        "android": "https://blitz-mods.com/mod/sixth-senses/sixth-sense-totem-of-undying-181/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/sixth-senses/sixth-sense-totem-of-undying-181/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/sixth-senses/sixth-sense-totem-of-undying-181"
+      }
+    ]
+  },
+  {
+    "name": "Camera P.O.V.",
+    "mods": [
+      {
+        "name": "Super Close",
+        "author": "Rick",
+        "pc": "https://blitz-mods.com/mod/user-interface/adjusted-battle-camera-super-close-392/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/adjusted-battle-camera-super-close-392"
+      },
+      {
+        "name": "Closer",
+        "author": "Rick",
+        "pc": "https://blitz-mods.com/mod/user-interface/closer-battle-pov-391/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/closer-battle-pov-391"
+      }
+    ]
+  },
+  {
+    "name": "Hitmarks",
+    "mods": [
+      {
+        "name": "Coloured hitmarks",
+        "author": "Rick",
+        "android": "https://www.blitz-mods.com/mod/user-interface/coloured-hitmarks-325/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/user-interface/coloured-hitmarks-325/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/user-interface/coloured-hitmarks-325"
+      },
+      {
+        "name": "HD penetration decals from World of Tanks (PC)",
+        "author": "remkomplekt_",
+        "android": "https://blitz-mods.com/mod/user-interface/hd-penetration-decals-from-world-of-tanks-pc-297/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/user-interface/hd-penetration-decals-from-world-of-tanks-pc-297/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/hd-penetration-decals-from-world-of-tanks-pc-297"
+      }
+    ]
+  },
+  {
+    "name": "Destroyed tanks",
+    "mods": [
+      {
+        "name": "White dead tanks",
+        "author": "Rick",
+        "android": "https://blitz-mods.com/mod/camouflages/white-dead-tanks-372/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/camouflages/white-dead-tanks-372/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/camouflages/white-dead-tanks-372"
+      },
+      {
+        "name": "Magenta dead tanks",
+        "author": "Rick",
+        "android": "https://blitz-mods.com/mod/camouflages/magenta-dead-tanks-371/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/camouflages/magenta-dead-tanks-371/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/camouflages/magenta-dead-tanks-371"
+      }
+    ]
+  },
+  {
+    "name": "Ribbons",
+    "mods": [
+      {
+        "name": "Ribbons 2.0",
+        "author": "ZxcMashka",
+        "android": "https://blitz-mods.com/mod/user-interface/ribbons-20-by-zxcmashka-148/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/user-interface/ribbons-20-by-zxcmashka-148/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/ribbons-20-by-zxcmashka-148/download/pc-wg"
+      },
+      {
+        "name": "WoT PC Ribbons",
+        "author": "Rick",
+        "pc": "https://blitz-mods.com/mod/user-interface/wot-ribbons-380/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/wot-ribbons-380"
+      }
+    ]
+  },
+  {
+    "name": "Shells",
+    "mods": [
+      {
+        "name": "WoT shells",
+        "author": "Rick",
+        "pc": "https://blitz-mods.com/mod/user-interface/wot-shells-389/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/wot-shells-389"
+      }
+    ]
+  },
+  {
+    "name": "Tech tree",
+    "mods": [
+      {
+        "name": "Extended tech tree wg edition",
+        "author": "GonnaHetzMe",
+        "pc": "https://blitz-mods.com/mod/user-interface/wg-extended-tech-tree-90/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/wg-extended-tech-tree-90"
+      }
+    ]
+  },
+  {
+    "name": "Minimap radar",
+    "mods": [
+      {
+        "name": "Visual circles of illumination",
+        "author": "DorTep",
+        "android": "https://forblitz.ru/wp-content/uploads/2025/06/bb-circles-of-light1_android.zip",
+        "pc": "https://forblitz.ru/wp-content/uploads/2025/06/bb-circles-of-light1_pc.zip",
+        "site": "https://forblitz.ru/en/modifications/interface/vizualnye-krugi-zasveta-v-stile-wot/23033"
+      }
+    ]
+  },
+  {
+    "name": "Minimaps",
+    "mods": [
+      {
+        "name": "HD Minimap with selectable grids",
+        "author": "Rick",
+        "pc": "https://blitz-mods.com/mod/user-interface/hd-minimaps-373/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/user-interface/hd-minimaps-373"
+      }
+    ]
+  },
+  {
+    "name": "Camouflages",
+    "mods": [
+      {
+        "name": "Fake legendary camos",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/camouflages/fake-legendary-camouflages-for-wotb-1142-274/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/camouflages/fake-legendary-camouflages-for-wotb-1142-274/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/camouflages/fake-legendary-camouflages-for-wotb-1142-274"
+      }
+    ]
+  },
+  {
+    "name": "Battle tank panel",
+    "mods": [
+      {
+        "name": "New ears",
+        "author": "RefuzoHoyeon",
+        "android": "https://www.blitz-mods.com/mod/user-interface/new-tanks-panel-in-dark-white-style-179/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/user-interface/new-tanks-panel-in-dark-white-style-179/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/user-interface/new-tanks-panel-in-dark-white-style-179"
+      }
+    ]
+  },
+  {
+    "name": "Damage statistcs panel",
+    "mods": [
+      {
+        "name": "Custom",
+        "author": "Rick",
+        "pc": "https://www.blitz-mods.com/mod/user-interface/custom-damage-statistics-panel-341/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/user-interface/custom-damage-statistics-panel-341"
+      }
+    ]
+  }
+]

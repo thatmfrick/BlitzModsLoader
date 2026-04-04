@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Gun sounds",
+    "mods": [
+      {
+        "name": "WoT gun sounds",
+        "author": "DeltBlitz",
+        "android": "https://blitz-mods.com/mod/gun-sounds/gun-sounds-from-world-of-tanks-301/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/gun-sounds/gun-sounds-from-world-of-tanks-301/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/gun-sounds/gun-sounds-from-world-of-tanks-301"
+      },
+      {
+        "name": "Thunder guns",
+        "author": "Andre_V",
+        "android": "https://blitz-mods.com/mod/gun-sounds/thunder-guns-25/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/gun-sounds/thunder-guns-25/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/gun-sounds/thunder-guns-25"
+      },
+      {
+        "name": "Historical Gun Sounds V2.0",
+        "author": "VNDmod",
+        "android": "https://blitz-mods.com/mod/gun-sounds/historical-gun-sounds-v20-252/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/gun-sounds/historical-gun-sounds-v20-252/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/gun-sounds/historical-gun-sounds-v20-252"
+      }
+    ]
+  },
+  {
+    "name": "Crew Voices",
+    "mods": [
+      {
+        "name": "Wot male crew voices",
+        "author": "DeltBlitz",
+        "android": "https://blitz-mods.com/mod/crew-voices/crew-voices-from-world-of-tanks-male-302/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/crew-voices/crew-voices-from-world-of-tanks-male-302/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/crew-voices/crew-voices-from-world-of-tanks-male-302"
+      }
+    ]
+  }
+]

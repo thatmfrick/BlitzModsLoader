@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Hangar",
+    "mods": [
+      {
+        "name": "Idle Chamber",
+        "author": "YTS",
+        "pc": "https://blitz-mods.com/mod/hangars/idle-chamber-a-minimalistic-hangar-305/download/pc-lesta/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/hangars/idle-chamber-a-minimalistic-hangar-305"
+      },
+      {
+        "name": "28 days later",
+        "author": "MuzMods",
+        "android": "https://blitz-mods.com/mod/hangars/28-days-later-32/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/hangars/28-days-later-32/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/hangars/28-days-later-32"
+      },
+      {
+        "name": "Minimalistic",
+        "author": "MuzMods",
+        "android": "https://www.blitz-mods.com/mod/hangars/minimalistic-1-52/download/android-wg/file?_token=x=0",
+        "pc": "https://www.blitz-mods.com/mod/hangars/minimalistic-1-52/download/pc-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/hangars/minimalistic-1-52"
+      },
+      {
+        "name": "Old non-premium hangar",
+        "author": "Rick",
+        "android": "https://blitz-mods.com/mod/hangars/old-non-premium-hangar-377/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/hangars/old-non-premium-hangar-377/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/hangars/old-non-premium-hangar-377"
+      },
+      {
+        "name": "Xmas 2022",
+        "author": "heskamodz47",
+        "pc": "https://blitz-mods.com/mod/hangars/new-years-2022-hangar-338/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/hangars/new-years-2022-hangar-338"
+      },
+      {
+        "name": "Spookwood Forest",
+        "author": "MuzMods",
+        "pc": "https://www.blitz-mods.com/mod/hangars/spookwood-forest-29/download/android-wg/file?_token=x=0",
+        "site": "https://www.blitz-mods.com/mod/hangars/spookwood-forest-29"
+      },
+      {
+        "name": "Horrorstandt (2025)",
+        "author": "MuzMods",
+        "pc": "https://blitz-mods.com/mod/hangars/hangar-on-the-new-version-of-the-horrorstadt-312/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/hangars/hangar-on-the-new-version-of-the-horrorstadt-312"
+      }
+    ]
+  }
+]
