@@ -42,6 +42,7 @@
         "author": "GanzirDefender",
         "android": "https://blitz-mods.com/mod/remodelings/remodeling-t77-surge-warpath-411/download/android-wg/file?_token=x=0",
         "pc": "https://blitz-mods.com/mod/remodelings/remodeling-t77-surge-warpath-411/download/pc-wg/file?_token=x=0",
+        "picture": "https://blitz-mods.com/img/mods/Su00nkFAb9rVF0LIBKTESEfLHoFu5ZiZJKoi6f32/Su00nkFAb9rVF0LIBKTESEfLHoFu5ZiZJKoi6f32_1920x1080.webp",
         "site": "https://blitz-mods.com/mod/remodelings/remodeling-t77-surge-warpath-411"
       }
     ]
@@ -255,6 +256,18 @@
     ]
   },
   {
+    "name": "Tiger-Maus",
+    "mods": [
+      {
+        "name": "Cassius",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-tiger-maus-cassius-381/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-tiger-maus-cassius-381/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-tiger-maus-cassius-381"
+      }
+    ]
+  },
+  {
     "name": "VK100.01(P)",
     "mods": [
       {
@@ -299,6 +312,18 @@
         "android": "https://blitz-mods.com/mod/remodelings/remodeling-tigerp-prestige-374/download/android-wg/file?_token=x=0",
         "pc": "https://blitz-mods.com/mod/remodelings/remodeling-tigerp-prestige-374/download/pc-wg/file?_token=x=0",
         "site": "https://blitz-mods.com/mod/remodelings/remodeling-tigerp-prestige-374"
+      }
+    ]
+  },
+  {
+    "name": "Pz.IV S.",
+    "mods": [
+      {
+        "name": "Hunter-seeker",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-pz-iv-schmalturm-hunter-seeker-396/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-pz-iv-schmalturm-hunter-seeker-396/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-pz-iv-schmalturm-hunter-seeker-396"
       }
     ]
   },
@@ -375,6 +400,18 @@
         "author": "gamelsz",
         "pc": "https://www.blitz-mods.com/mod/remodelings/remodeling-panzerselbstfahrlafette-v-st-emil-276/download/pc-wg/file?_token=x=0",
         "site": "https://www.blitz-mods.com/mod/remodelings/remodeling-panzerselbstfahrlafette-v-st-emil-276"
+      }
+    ]
+  },
+  {
+    "name": "Nashorn",
+    "mods": [
+      {
+        "name": "Fortuna",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-nashornepsilon-fortuna-402/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-nashornepsilon-fortuna-402/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-nashornepsilon-fortuna-402"
       }
     ]
   },
@@ -458,6 +495,37 @@
     ]
   },
   {
+    "name": "Obj. 260",
+    "mods": [
+      {
+        "name": "One9",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-obj260-one9-379/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-obj260-one9-379",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-obj260-one9-379/download/pc-wg/file?_token=x=0"
+      },
+      {
+        "name": "KR-1",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-obj260-kr-1-390/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-obj260-kr-1-390/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-obj260-kr-1-390"
+      }
+    ]
+  },
+  {
+    "name": "Obj. 777 II",
+    "mods": [
+      {
+        "name": "21st Division",
+        "author": "GanzirDefender",
+        "andorid": "https://blitz-mods.com/mod/remodelings/remodeling-obj777-21st-division-382/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-obj777-21st-division-382/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-obj777-21st-division-382"
+      }
+    ]
+  },
+  {
     "name": "K-91",
     "mods": [
       {
@@ -478,6 +546,18 @@
         "android": "https://www.blitz-mods.com/mod/remodelings/remodeling-is-3-pike-319/download/android-wg/file?_token=x=0",
         "pc": "https://www.blitz-mods.com/mod/remodelings/remodeling-is-3-pike-319/download/pc-wg/file?_token=x=0",
         "site": "https://www.blitz-mods.com/mod/remodelings/remodeling-is-3-pike-319"
+      }
+    ]
+  },
+  {
+    "name": "K-2",
+    "mods": [
+      {
+        "name": "NO.5",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-k-2-no5-376/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-k-2-no5-376/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-k-2-no5-376"
       }
     ]
   },
@@ -512,6 +592,18 @@
         "author": "YTSH",
         "pc": "https://blitz-mods.com/mod/remodelings/remodeling-su-122-44-the-viper-268/download/pc-wg/file?_token=x=0",
         "site": "https://blitz-mods.com/mod/remodelings/remodeling-su-122-44-the-viper-268"
+      }
+    ]
+  },
+  {
+    "name": "Centurion 7/1",
+    "mods": [
+      {
+        "name": "Archdemon",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-centurion-mk-71-archdemon-386/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-centurion-mk-71-archdemon-386/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-centurion-mk-71-archdemon-386"
       }
     ]
   },
@@ -586,6 +678,18 @@
     ]
   },
   {
+    "name": "Type 5 Heavy",
+    "mods": [
+      {
+        "name": "Type 4 Heavy",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-type4-heavy-type5h-405/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-type4-heavy-type5h-405/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-type4-heavy-type5h-405"
+      }
+    ]
+  },
+  {
     "name": "STB-1",
     "mods": [
       {
@@ -641,6 +745,18 @@
         "android": "https://blitz-mods.com/mod/remodelings/remodeling-wz-113-265/download/android-wg/file?_token=x=0",
         "pc": "https://blitz-mods.com/mod/remodelings/remodeling-wz-113-265/download/pc-wg/file?_token=x=0",
         "site": "https://blitz-mods.com/mod/remodelings/remodeling-wz-113-265"
+      }
+    ]
+  },
+  {
+    "name": "163-F3",
+    "mods": [
+      {
+        "name": "Nightblade",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-116f3-nightblade-404/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-116f3-nightblade-404/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-116f3-nightblade-404"
       }
     ]
   },
@@ -875,6 +991,18 @@
     ]
   },
   {
+    "name": "60TP Lewandowskiego",
+    "mods": [
+      {
+        "name": "CC-46 Pancernik",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-cc-46-pancernik-60tp-407/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-cc-46-pancernik-60tp-407/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-cc-46-pancernik-60tp-407"
+      }
+    ]
+  },
+  {
     "name": "50 TP prototyp",
     "mods": [
       {
@@ -911,6 +1039,18 @@
         "android": "https://www.blitz-mods.com/mod/remodelings/remodeling-nc-70-blyskawica-heat-315/download/android-wg/file?_token=x=0",
         "pc": "https://www.blitz-mods.com/mod/remodelings/remodeling-nc-70-blyskawica-heat-315/download/pc-wg/file?_token=x=0",
         "site": "https://www.blitz-mods.com/mod/remodelings/remodeling-nc-70-blyskawica-heat-315"
+      }
+    ]
+  },
+  {
+    "name": "SPD wz 66 Grom",
+    "mods": [
+      {
+        "name": "Ambush tactics",
+        "author": "GanzirDefender",
+        "android": "https://blitz-mods.com/mod/remodelings/remodeling-sdp-66-grom-ambush-tactics-397/download/android-wg/file?_token=x=0",
+        "pc": "https://blitz-mods.com/mod/remodelings/remodeling-sdp-66-grom-ambush-tactics-397/download/pc-wg/file?_token=x=0",
+        "site": "https://blitz-mods.com/mod/remodelings/remodeling-sdp-66-grom-ambush-tactics-397"
       }
     ]
   }
