@@ -1,3 +1,9 @@
+# 04/30/26 Update
+
+## Adding size of each mod and fixes
+
+- E 100 -> Ironbird by GanzirDefender
+
 # 04/24/26 Update
 
 ## Added modifications by Rick
