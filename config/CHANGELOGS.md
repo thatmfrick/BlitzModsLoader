@@ -1,3 +1,9 @@
+# 05/06/26 Update
+
+## Adding mods
+
+- Progetto 65 -> Ariete PSO
+
 # 04/30/26 Update
 
 ## Adding size of each mod and fixes
